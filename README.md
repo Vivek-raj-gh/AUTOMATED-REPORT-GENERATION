@@ -85,3 +85,4 @@ This automated process of reading data, analyzing it, and generating a PDF repor
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/538475ff-a1db-4c55-bc26-9169b8a9423e)
