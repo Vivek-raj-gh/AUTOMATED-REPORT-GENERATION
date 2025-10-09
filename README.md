@@ -1,7 +1,5 @@
 # AUTOMATED-REPORT-GENERATION
 
-### Description: Automated Report Generation
-
 **Introduction**
 
 Generating reports is a fundamental task in data analysis and business intelligence. Automating this task can save significant time and effort. This theory explains a practical approach to reading data from a file, analyzing it, and generating a formatted PDF report using Python libraries such as `pandas` for data handling and `FPDF` for creating the PDF output.
