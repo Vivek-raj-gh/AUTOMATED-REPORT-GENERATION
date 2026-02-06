@@ -69,6 +69,6 @@ The script includes error handling to manage missing files gracefully. Future im
 
 This automated process of reading data, analyzing it, and generating a PDF report demonstrates the power and versatility of Python for data-driven tasks. By combining `pandas` and `FPDF`, developers can create scalable and efficient solutions for data reporting in various domains.
 
-# OUTPUT
+### OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/538475ff-a1db-4c55-bc26-9169b8a9423e)
